@@ -20,4 +20,4 @@ The site is fully responsive and designed to look great on all devices.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com//TagoreJ/Trogon.git
